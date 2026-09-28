@@ -1,0 +1,161 @@
+{
+  "summary": {
+    "total_scraped": 39,
+    "top_picks_count": 6,
+    "market_trend_comment": "新高値更新銘柄やブレイクアウト銘柄が複数見られ、グロース市場およびスタンダード市場の一部で強い買い意欲やモメンタムの継続が確認される。"
+  },
+  "evaluated_stocks": [
+    {
+      "code": "142A",
+      "name": "ジンジブ",
+      "rank": "A",
+      "breakout_quality": "上場来の高値を更新し、上値の軽い展開。強い買い圧力が感じられる。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "未確認",
+        "profit_growth": "未確認",
+        "catalyst": "27年3月期1Q経常5％上方修正、ダイヤ書房と代理店契約締結、高校生未来EXPO2027開催決定など"
+      },
+      "technical": {
+        "volume_surge": false,
+        "moving_average_trend": "未確認"
+      },
+      "bear_case": "信用買残の増加や自己資本比率の低さによる需給・財務面の懸念。",
+      "invalidation": "新高値の維持ができず株価が直近安値やブレイクアウト前の水準を下回った場合。",
+      "analysis_reason": "上場来高値を更新しモメンタムが非常に強い一方、業績数値の詳細な前年同期比の算出根拠が一部不明確な点があるため総合的にA評価。",
+      "action_plan": "押し目買いを狙いつつ、下値支持線を割った場合は撤退する。"
+    },
+    {
+      "code": "3143",
+      "name": "オーウイル",
+      "rank": "A",
+      "breakout_quality": "長期の保ち合いを上方にブレイクし年初来高値を更新、ストップ高を記録。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "未確認",
+        "profit_growth": "未確認",
+        "catalyst": "株主優待の詳細決定、SBI証券の保有割合増加、権利付き最終売買日"
+      },
+      "technical": {
+        "volume_surge": true,
+        "moving_average_trend": "未確認"
+      },
+      "bear_case": "権利付き最終売買日を通過した後の需給悪化や利食い売りのリスク。",
+      "invalidation": "ストップ高の起点となったサポートラインを明確に下抜けた場合。",
+      "analysis_reason": "ストップ高を伴う強いブレイクアウトと年初来高値更新が確認できるためA評価。",
+      "action_plan": "急騰後のボラティリティに注意しつつ、押し目での反発を確認してエントリーする。"
+    },
+    {
+      "code": "3177",
+      "name": "ありがとうサービス",
+      "rank": "A",
+      "breakout_quality": "節目の高値を更新し、出来高を伴った強い上昇トレンドを形成。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "未確認",
+        "profit_growth": "未確認",
+        "catalyst": "リユース事業の好調、物価高が成長ブースターに"
+      },
+      "technical": {
+        "volume_surge": true,
+        "moving_average_trend": "未確認"
+      },
+      "bear_case": "信用買残の存在や上値追いに伴う短期的な過熱感。",
+      "invalidation": "直近の支持線を割込み、上昇トレンドが崩れた場合。",
+      "analysis_reason": "上場来高値更新が継続しており、上値追いの典型的なモメンタム銘柄としてA評価。",
+      "action_plan": "トレンドに順張りで追随し、移動平均線近辺での押し目を狙う。"
+    },
+    {
+      "code": "334A",
+      "name": "ビジュアル・プロセッシング・ジャパン",
+      "rank": "A",
+      "breakout_quality": "直近の上値抵抗帯を明確にブレイクし、新高値を更新。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "+22.0%",
+        "profit_growth": "未確認",
+        "catalyst": "SaaS「CIERTO」の新規契約拡大、サンドラッグなどの採用"
+      },
+      "technical": {
+        "volume_surge": false,
+        "moving_average_trend": "未確認"
+      },
+      "bear_case": "信用倍率が高水準であり、将来的な需給の重しとなる懸念。",
+      "invalidation": "ブレイクアウト水準を下回り、下値支持線を割り込んだ場合。",
+      "analysis_reason": "SaaSの好調な売上成長と新高値更新の事実が確認できるためA評価。",
+      "action_plan": "好調な業績期待を背景に押し目買いを基本戦略とする。"
+    },
+    {
+      "code": "428A",
+      "name": "サイプレス・ホールディングス",
+      "rank": "A",
+      "breakout_quality": "高値を捉えて上値の軽さを活かした強い値動きを展開。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "未確認",
+        "profit_growth": "未確認",
+        "catalyst": "通期純利益の上方修正・最高益予想の上乗せ"
+      },
+      "technical": {
+        "volume_surge": true,
+        "moving_average_trend": "未確認"
+      },
+      "bear_case": "自己資本比率が低めである点や急騰後の反動安リスク。",
+      "invalidation": "上方修正発表前の株価水準まで急落した場合。",
+      "analysis_reason": "上方修正を好感した強い買いが流入し年初来高値を更新しているためA評価。",
+      "action_plan": "好決算余韻による押し目を狙い、サポート確認後に買い向かう。"
+    },
+    {
+      "code": "456A",
+      "name": "ＨＵＭＡＮ ＭＡＤＥ",
+      "rank": "A",
+      "breakout_quality": "高値圏での強い買いが継続し、明確なブレイクアウトを示現。",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "未確認",
+        "profit_growth": "未確認",
+        "catalyst": "初の旗艦店「HUMAN MADE TOKYO」オープン、アンダーカバーの子会社化、上方修正と株主優待新設"
+      },
+      "technical": {
+        "volume_surge": true,
+        "moving_average_trend": "均衡表3役好転"
+      },
+      "bear_case": "信用買残および売残が共に多く、ボラティリティが激しくなる可能性。",
+      "invalidation": "均衡表の好転が崩れ、主要な支持線を下回った場合。",
+      "analysis_reason": "豊富なカタリスト（旗艦店オープンや子会社化、上方修正等）とテクニカルの3役好転が揃い、強いモメンタムが維持されているためA評価。",
+      "action_plan": "短期的な急騰リスクに留意しつつ、押し目形成時の打診買いを行う。"
+    }
+  ],
+  "source_urls": [
+    "https://finance.yahoo.co.jp/quote/142A.T",
+    "https://finance.yahoo.co.jp/quote/142A.T/performance",
+    "https://finance.yahoo.co.jp/quote/142A.T/news",
+    "https://finance.yahoo.co.jp/quote/142A.T/disclosure",
+    "https://finance.yahoo.co.jp/quote/3143.T",
+    "https://finance.yahoo.co.jp/quote/3143.T/performance",
+    "https://finance.yahoo.co.jp/quote/3143.T/news",
+    "https://finance.yahoo.co.jp/quote/3143.T/disclosure",
+    "https://finance.yahoo.co.jp/quote/3177.T",
+    "https://finance.yahoo.co.jp/quote/3177.T/performance",
+    "https://finance.yahoo.co.jp/quote/3177.T/news",
+    "https://finance.yahoo.co.jp/quote/3177.T/disclosure",
+    "https://finance.yahoo.co.jp/quote/334A.T",
+    "https://finance.yahoo.co.jp/quote/334A.T/performance",
+    "https://finance.yahoo.co.jp/quote/334A.T/news",
+    "https://finance.yahoo.co.jp/quote/334A.T/disclosure",
+    "https://finance.yahoo.co.jp/quote/428A.T",
+    "https://finance.yahoo.co.jp/quote/428A.T/performance",
+    "https://finance.yahoo.co.jp/quote/428A.T/news",
+    "https://finance.yahoo.co.jp/quote/428A.T/disclosure",
+    "https://finance.yahoo.co.jp/quote/456A.T",
+    "https://finance.yahoo.co.jp/quote/456A.T/performance",
+    "https://finance.yahoo.co.jp/quote/456A.T/news",
+    "https://finance.yahoo.co.jp/quote/456A.T/disclosure"
+  ]
+}
