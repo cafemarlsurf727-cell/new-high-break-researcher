@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "total_scraped": 2,
+    "top_picks_count": 2,
+    "market_trend_comment": "日経平均堅調、新高値銘柄多数。"
+  },
+  "evaluated_stocks": [
+    {
+      "code": "6501",
+      "name": "日立製作所",
+      "rank": "S",
+      "breakout_quality": "High",
+      "confidence": "High",
+      "fundamentals": {
+        "meets_growth_criteria": true,
+        "revenue_growth": "+12.5%",
+        "profit_growth": "+25.0%",
+        "catalyst": "次世代EV駆動システムの長期供給契約"
+      },
+      "technical": {
+        "volume_surge": true,
+        "moving_average_trend": "上昇"
+      },
+      "big_change": {
+        "status": "identified",
+        "category": "大型受注・大型契約",
+        "title": "次世代EV駆動システムの長期供給契約",
+        "summary": "トヨタ向けに次世代EV駆動システムの供給契約を締結",
+        "growth_mechanism": "売上高および利益率の長期的な底上げに寄与",
+        "evidence_level": "disclosure_headline",
+        "evidence_title": "トヨタ自動車向け次世代EV駆動システムの大規模長期供給契約を締結",
+        "evidence_date": "2026/09/25",
+        "source_url": "https://finance.yahoo.co.jp/quote/6501.T/disclosure/67890",
+        "unconfirmed_points": "受注規模は未公表"
+      },
+      "bear_case": "為替変動リスク",
+      "invalidation": "25日移動平均線割れ",
+      "analysis_reason": "大型契約による構造的成長と高値ブレイク",
+      "action_plan": "打診買い",
+      "original_rank": "S",
+      "original_confidence": "High",
+      "rank_guard": {
+        "guard_applied": false,
+        "original_rank": "S",
+        "final_rank": "S",
+        "rule_applied": null,
+        "reason": null,
+        "review_required": false,
+        "review_reason": null,
+        "original_confidence": "High",
+        "final_confidence": "High",
+        "confidence_adjusted": false,
+        "confidence_reason": null
+      }
+    },
+    {
+      "code": "6701",
+      "name": "日本電気",
+      "rank": "A",
+      "breakout_quality": "Medium",
+      "confidence": "Medium",
+      "fundamentals": {
+        "meets_growth_criteria": false,
+        "revenue_growth": "+5.0%",
+        "profit_growth": "+8.0%",
+        "catalyst": "新製品開発"
+      },
+      "technical": {
+        "volume_surge": false,
+        "moving_average_trend": "横ばい"
+      },
+      "big_change": {
+        "status": "possible",
+        "category": "新製品・新サービス",
+        "title": "新製品開発",
+        "summary": "新製品の開発発表",
+        "growth_mechanism": "市場投入による収益化",
+        "evidence_level": "disclosure_headline",
+        "evidence_title": "新製品開発に関するお知らせ",
+        "evidence_date": null,
+        "source_url": "https://finance.yahoo.co.jp/quote/6701.T/disclosure",
+        "unconfirmed_points": "業績寄与度は未確認"
+      },
+      "bear_case": "競争激化",
+      "invalidation": "直近安値割れ",
+      "analysis_reason": "新製品期待",
+      "action_plan": "様子見",
+      "original_rank": "A",
+      "original_confidence": "Medium",
+      "rank_guard": {
+        "guard_applied": false,
+        "original_rank": "A",
+        "final_rank": "A",
+        "rule_applied": null,
+        "reason": null,
+        "review_required": false,
+        "review_reason": null,
+        "original_confidence": "Medium",
+        "final_confidence": "Medium",
+        "confidence_adjusted": false,
+        "confidence_reason": null
+      }
+    }
+  ]
+}

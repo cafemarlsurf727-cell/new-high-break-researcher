@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>CYBERPUNK // BREAKOUT STOCKS TERMINAL</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <span style="color:var(--cyan); font-size:0.75rem;">SYSTEM OPERATIONAL // MULTI-STAGE SCREENING</span>
+                <h1>⚡ NEW-HIGH TERMINAL</h1>
+            </div>
+            <button class="btn open-watchlist-btn">⭐ WATCHLIST [ <span class="watch-count">0</span> ]</button>
+        </header>
+
+        <div class="overview-box">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+                <strong>🔥 最新レポート (2026.09.29)</strong>
+                <a href="reports/2026-09-29.html" class="btn">FULL REPORT ↗</a>
+            </div>
+            <p style="color:var(--text-muted); font-size:0.8rem;">最新のスクリーニング結果と一次情報に基づく分析は「FULL REPORT」から確認できます。</p>
+        </div>
+
+        <section>
+            <h2 style="font-size:1rem; color:var(--fuchsia); margin-bottom:0.8rem;">📂 SYSTEM ARCHIVES</h2>
+            <ul class="archive-list"><li>
+        <a href="reports/2026-09-29.html" class="archive-item">
+            <span>▶ ARCHIVE // 2026-09-29</span>
+            <span>ACCESS →</span>
+        </a>
+        </li>
+</ul>
+        </section>
+    </div>
+    
+    <div id="watchlist-modal" class="modal-overlay">
+        <div class="modal-box">
+            <h2>⭐ 監視リスト <button class="modal-close" aria-label="閉じる">✕</button></h2>
+            <ul id="watchlist-items"></ul>
+        </div>
+    </div>
+
+    <div id="toast"></div>
+    <script src="assets/app.js"></script>
+</body>
+</html>
